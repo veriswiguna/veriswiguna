@@ -9,6 +9,8 @@
 <!--
 **veriswiguna/veriswiguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mie+ayam+rasa+ayam%2C+enak+tau!!!;Beneran+dah+cobain+keburu+mati+lu+wkwk.)](https://git.io/typing-svg)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
